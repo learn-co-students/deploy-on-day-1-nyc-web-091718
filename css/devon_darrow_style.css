@@ -1,7 +1,11 @@
 #work {
-  margin-bottom: 20px
+  margin-bottom: 20px;
 }
 
 #scroll-coder-cred {
-  margin-top: 200px
+  margin-top: 200px;
+}
+
+.services-hidden {
+  display: none;
 }
